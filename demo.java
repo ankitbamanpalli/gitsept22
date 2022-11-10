@@ -2,11 +2,11 @@ class demo(){
 
 
 
-	psvm(){
+	public static void main(String args[]){
 
 
 
-		sop("lol");
+		System.out.println("lol");
 	
 
 
